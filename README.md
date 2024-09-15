@@ -1,2 +1,2 @@
 # NSCC_Task
-this is my responsive website
+This is my responsive website
